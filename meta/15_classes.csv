@@ -1,0 +1,15 @@
+Tcm/Naive helper T cells,0
+Classical monocytes,1
+Memory B cells,2
+Regulatory T cells,3
+Tem/Trm cytotoxic T cells,4
+DC2,5
+Tcm/Naive cytotoxic T cells,6
+Tem/Effector helper T cells,7
+MAIT cells,8
+Naive B cells,9
+CD16+ NK cells,10
+Non-classical monocytes,11
+NK cells,12
+Age-associated B cells,13
+pDC,14
